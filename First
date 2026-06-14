@@ -1,0 +1,42 @@
+<html>
+<head>
+    <title>Rajab Earbuds Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        img {
+            width: 300px;
+            border-radius: 10px;
+        }
+        .btn {
+            background: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Rajab Earbuds Store</h1>
+    <p>Premium Wireless Earbuds with High Quality Sound</p>
+
+    <img src="earbuds.jpg" alt="Earbuds">
+
+    <h2>Price: Rs. 1,500 </h2>
+
+    <a href="https://wa.me/923266102635" class="btn">
+        Order on WhatsApp
+    </a>
+</div>
+
+</body>
+</html>
